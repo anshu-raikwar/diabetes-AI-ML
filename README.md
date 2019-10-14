@@ -7,17 +7,18 @@ diabetes detection using AI-ML Algorithms
     included in the dataset.
 
 The seven Supevised algorithms for clssification problems used in this project are listed below:
-	-  KNN Classiﬁer
-	-  Logistic Regression
-	-  Decision Tree
-	-  Random Forest
-	-  Gradient Boosting
-	-  Naive Bayes Classiﬁer
-	-  Support Vector Machine Classiﬁer
+    
+    -  KNN Classiﬁer
+    -  Logistic Regression
+    -  Decision Tree
+    -  Random Forest
+    -  Gradient Boosting
+    -  Naive Bayes Classiﬁer
+    -  Support Vector Machine Classiﬁer
 
 DATASET DESCRIPTION:
 	The data set is originally obtained from the National Institute of Diabetes and Digestive and Kidney Diseases. It contains information of 768 women from Arizona, USA: 268 tested positive and 500 tested negative for diabetes. Each instance comprises of 8 attributes, all numeric, obtained from personal health data as well as results from medical examinations:
-		-  Pregnancies: Number of times pregnant
+    -  Pregnancies: Number of times pregnant
 		-  Glucose: Plasma glucose concentration at 2h in an oral glucose tolerance test.
 		-  BloodPressure: Diastolic blood pressure 
 		-  SkinThickness: Triceps skin fold thickness
